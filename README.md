@@ -1,6 +1,8 @@
 # Doctor Schedule
 
-**Tech Stack:** Next.js, CSS Modules, Google Docs
+## Tech Stack
+- Next.js
+- CSS Modules
 
 ---
 
