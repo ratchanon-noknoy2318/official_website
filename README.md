@@ -7,6 +7,4 @@ A web application for viewing doctor appointment schedules.
 - CSS Modules
 
 ## Features
-- View doctor schedules
-- Check appointment availability
-- Simple and responsive UI
+- Patients can easily check doctors’ consultation schedules.
