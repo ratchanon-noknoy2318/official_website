@@ -1,6 +1,6 @@
-# Doctor Schedule
+# Official Healthcare Website
 
-A web application for viewing doctor appointment schedules.
+A user-friendly healthcare website that helps patients easily check doctors’ consultation schedules.
 
 ## Tech Stack
 - Next.js
@@ -8,3 +8,4 @@ A web application for viewing doctor appointment schedules.
 
 ## Features
 - Patients can easily check doctors’ consultation schedules.
+- Uses familiar and simple language to make information easier for users to understand.
